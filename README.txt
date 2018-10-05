@@ -5,4 +5,4 @@ this is a test git
 ####some more text
 bla bla bla text to be added
 
-I hope this will not be a trouble and another developer modified this line
+Modified for stashing - ascundere
